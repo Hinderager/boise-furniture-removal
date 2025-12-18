@@ -2,10 +2,10 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | Hoarding Cleanup Pros',
-  description: 'Terms of service for Hoarding Cleanup Pros hoarding cleanup services in Boise and the Treasure Valley.',
+  title: 'Terms of Service | Top Shelf Furniture Removal',
+  description: 'Terms of service for Top Shelf Furniture Removal furniture removal services in Boise and the Treasure Valley.',
   alternates: {
-    canonical: 'https://boise-hoarding-cleanup.com/terms',
+    canonical: 'https://boise-furniture-removal.com/terms',
   },
 }
 
@@ -15,21 +15,21 @@ export default function TermsPage() {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-4xl font-bold text-gunmetal mb-4">Terms of Service</h1>
-          <p className="text-gray-500 mb-8">Last updated: December 12, 2024</p>
+          <p className="text-gray-500 mb-8">Last updated: December 17, 2024</p>
 
           <div className="prose prose-lg max-w-none text-gray-600">
             <p>
-              Welcome to Hoarding Cleanup Pros. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
+              Welcome to Top Shelf Furniture Removal. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">1. Services</h2>
             <p>
-              Hoarding Cleanup Pros provides professional hoarding cleanup, estate cleanout, and related services in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
+              Top Shelf Furniture Removal provides professional furniture removal, estate cleanout, and related services in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">2. Service Agreement</h2>
             <p>
-              By requesting services from Hoarding Cleanup Pros, you represent that you are the property owner or have authorization from the property owner to request and authorize cleanup services. You agree to provide accurate information about the property and scope of work needed.
+              By requesting services from Top Shelf Furniture Removal, you represent that you are the property owner or have authorization from the property owner to request and authorize cleanup services. You agree to provide accurate information about the property and scope of work needed.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">3. Estimates and Pricing</h2>
@@ -62,7 +62,7 @@ export default function TermsPage() {
             <p>You agree to:</p>
             <ul>
               <li>Provide safe access to the property for our team and equipment</li>
-              <li>Inform us of any known hazards, including but not limited to biohazards, structural damage, pest infestations, or hazardous materials</li>
+              <li>Inform us of any known hazards, such as structural damage, accessibility issues, or safety concerns</li>
               <li>Secure pets during service appointments</li>
               <li>Ensure utilities (electricity, water) are available if needed for cleaning</li>
             </ul>
@@ -78,7 +78,7 @@ export default function TermsPage() {
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">8. Liability and Insurance</h2>
             <ul>
-              <li>Hoarding Cleanup Pros is fully licensed and insured</li>
+              <li>Top Shelf Furniture Removal is fully licensed and insured</li>
               <li>We carry general liability insurance and workers&apos; compensation coverage</li>
               <li>We take reasonable care to protect your property during cleanup</li>
               <li>We are not responsible for pre-existing damage, hidden damage, or damage to items concealed within hoarded materials</li>
@@ -87,7 +87,7 @@ export default function TermsPage() {
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">9. Confidentiality</h2>
             <p>
-              We understand the sensitive nature of hoarding situations. We maintain strict confidentiality regarding our clients, their properties, and the services we provide. Our team members are trained to be discreet and professional at all times.
+              We understand that furniture removal may involve personal circumstances. We maintain professional standards and treat all clients with respect and discretion.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">10. Communication Consent</h2>
@@ -102,7 +102,7 @@ export default function TermsPage() {
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">12. Intellectual Property</h2>
             <p>
-              All content on this website, including text, images, logos, and design, is the property of Hoarding Cleanup Pros and is protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.
+              All content on this website, including text, images, logos, and design, is the property of Top Shelf Furniture Removal and is protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">13. Dispute Resolution</h2>
@@ -120,8 +120,8 @@ export default function TermsPage() {
               If you have questions about these Terms of Service, please contact us:
             </p>
             <ul>
-              <li><strong>Phone:</strong> (208) 361-1982</li>
-              <li><strong>Email:</strong> info@boise-hoarding-cleanup.com</li>
+              <li><strong>Phone:</strong> (208) 505-9352</li>
+              <li><strong>Email:</strong> info@boise-furniture-removal.com</li>
             </ul>
           </div>
 

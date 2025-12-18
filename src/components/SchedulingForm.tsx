@@ -89,9 +89,9 @@ export function SchedulingForm({ city = 'Boise' }: SchedulingFormProps) {
           customField: {
             preferred_date: formData.preferredDate,
             description: formData.description,
-            service_type: 'hoarding_cleanup',
+            service_type: 'furniture_removal',
             source_city: city,
-            source_site: 'boise-hoarding-cleanup.com',
+            source_site: 'boise-furniture-removal.com',
           },
         }),
       })

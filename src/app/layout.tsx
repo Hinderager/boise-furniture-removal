@@ -24,10 +24,10 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-furniture-removal.com'),
   title: {
-    default: 'Furniture Removal Boise | Same-Day Pickup | Furniture Removal Pros',
+    default: 'Furniture Removal Boise | Same-Day Pickup | Boise Furniture Removal',
     template: '%s | Furniture Removal Boise',
   },
-  description: 'Professional furniture removal in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. We haul away old couches, chairs, tables, dressers, and more. Same-day service available. Call (208) 361-1982.',
+  description: 'Professional furniture removal in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. We haul away old couches, chairs, tables, dressers, and more. Same-day service available. Call (208) 505-9352.',
   keywords: [
     'furniture removal Boise',
     'old furniture pickup Boise Idaho',
@@ -42,12 +42,12 @@ export const metadata: Metadata = {
     'same day furniture removal Boise',
     'office furniture removal',
   ],
-  authors: [{ name: 'Furniture Removal Pros' }],
+  authors: [{ name: 'Boise Furniture Removal' }],
   openGraph: {
-    title: 'Furniture Removal Boise | Same-Day Pickup | Furniture Removal Pros',
+    title: 'Furniture Removal Boise | Same-Day Pickup | Boise Furniture Removal',
     description: 'Professional furniture removal in the Treasure Valley. We haul away all types of furniture with same-day service available. Licensed and insured.',
     url: 'https://boise-furniture-removal.com',
-    siteName: 'Furniture Removal Pros',
+    siteName: 'Boise Furniture Removal',
     locale: 'en_US',
     type: 'website',
   },
@@ -84,7 +84,7 @@ export default function RootLayout({
       </head>
       <body className={`${montserrat.variable} ${oswald.variable} font-sans antialiased`}>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=AW-11134633087"
+          src="https://www.googletagmanager.com/gtag/js?id=G-46RY05JDNS"
           strategy="afterInteractive"
         />
         <Script id="google-ads" strategy="afterInteractive">
@@ -92,6 +92,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+            gtag('config', 'G-46RY05JDNS');
             gtag('config', 'AW-11134633087');
           `}
         </Script>

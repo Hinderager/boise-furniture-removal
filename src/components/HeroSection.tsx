@@ -16,30 +16,16 @@ export function HeroSection({ city, headline, subheadline }: HeroSectionProps = 
   return (
     <section className="relative h-[580px] md:h-[900px] lg:h-[950px] flex items-start lg:items-center overflow-visible">
       {/* Background Image */}
-      <picture>
-        <source
-          media="(max-width: 640px)"
-          srcSet="https://topshelfpros.com/images/moving/residential-moves/hero-mobile.webp"
-        />
-        <source
-          media="(min-width: 641px) and (max-width: 1024px)"
-          srcSet="https://topshelfpros.com/images/moving/residential-moves/hero-tablet.webp"
-        />
-        <source
-          media="(min-width: 1025px)"
-          srcSet="https://topshelfpros.com/images/best-of-all/hero-desktop.webp"
-        />
-        <Image
-          src="https://topshelfpros.com/images/best-of-all/hero-desktop.webp"
-          alt={city ? `Professional Furniture Removal Services - ${city} Idaho` : "Professional Furniture Removal Services - Boise Idaho"}
-          fill
-          priority
-          quality={85}
-          sizes="100vw"
-          className="object-cover object-left-top sm:object-center md:object-top lg:object-left"
-          fetchPriority="high"
-        />
-      </picture>
+      <Image
+        src="/generated/hero.webp"
+        alt={city ? `Professional Furniture Removal Services - ${city} Idaho` : "Professional Furniture Removal Services - Boise Idaho"}
+        fill
+        priority
+        quality={85}
+        sizes="100vw"
+        className="object-cover object-center md:object-top lg:object-left"
+        fetchPriority="high"
+      />
 
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 pt-[26rem] md:pt-[33rem] lg:pt-28 lg:pt-32 pb-6 md:pb-12 lg:pb-12">
@@ -64,7 +50,7 @@ export function HeroSection({ city, headline, subheadline }: HeroSectionProps = 
 
             {/* Tagline */}
             <h2 className="hidden lg:block text-lg sm:text-xl md:text-2xl font-bold text-white mb-4 md:mb-6 italic">
-              {subheadline || "Fast Pickup. Fair Prices. Any Furniture."}
+              {subheadline || "We Haul Away Couches, Tables, Beds, and More"}
             </h2>
 
             {/* Feature Badges - Hidden on mobile */}
@@ -97,9 +83,9 @@ export function HeroSection({ city, headline, subheadline }: HeroSectionProps = 
             {/* Desktop CTA Buttons */}
             <div className="hidden md:flex flex-row gap-3 md:gap-4 mb-4 lg:mb-12 md:lg:mb-16 justify-center px-8 lg:px-0">
               <Button asChild size="lg" className="bg-[#FFC845] hover:bg-[#e5b13d] text-black font-bold text-lg md:text-2xl lg:text-2xl px-3 md:px-10 lg:px-8 lg:px-10 py-5 md:py-8 lg:py-6 lg:py-8 rounded-lg uppercase flex-1 lg:flex-1 sm:w-48 border-4 border-[#FFC845]">
-                <a href="tel:2083611982">
+                <a href="tel:2085059352">
                   <span className="md:hidden">Call Now</span>
-                  <span className="hidden md:inline">(208) 361-1982</span>
+                  <span className="hidden md:inline">(208) 505-9352</span>
                 </a>
               </Button>
             </div>

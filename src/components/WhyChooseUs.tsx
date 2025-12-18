@@ -4,12 +4,12 @@ const features = [
   {
     icon: Heart,
     title: 'We Get It',
-    description: 'Hoarding is a mental health condition, not a choice. Our crew is trained to work with people going through this. No lectures, no dirty looks. Just help.',
+    description: 'We handle furniture removal with care and respect. Whether it's a single couch or a whole houseful, we treat your property right.',
   },
   {
     icon: Shield,
     title: 'Licensed & Insured',
-    description: 'Fully licensed with $1M liability coverage. We handle hazardous materials, biohazards, and heavy debris the right way.',
+    description: 'Fully licensed with $1M liability coverage. We handle heavy furniture safely and protect your property during removal.',
   },
   {
     icon: Clock,
@@ -18,8 +18,8 @@ const features = [
   },
   {
     icon: Lock,
-    title: 'Nobody Has to Know',
-    description: 'Unmarked trucks. No company logos. We keep things quiet so your neighbors don\'t ask questions.',
+    title: 'Fast & Professional',
+    description: 'Quick response times and efficient work. We get your furniture removed fast without wasting your time.',
   },
   {
     icon: Leaf,
@@ -36,7 +36,7 @@ const features = [
 const credentials = [
   'Background-checked team',
   'OSHA safety trained',
-  'Biohazard certified',
+  'Furniture handling trained',
   'BBB Accredited',
   'Fully bonded',
   '5-star Google rating',
@@ -52,7 +52,7 @@ export function WhyChooseUs() {
             Why Work With Us?
           </h2>
           <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-            We do hoarding cleanup in Boise, Meridian, Nampa, Caldwell, and Eagle. Here&apos;s what makes us different.
+            We do furniture removal in Boise, Meridian, Nampa, Caldwell, and Eagle. Here&apos;s what makes us different.
           </p>
         </div>
 

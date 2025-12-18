@@ -13,7 +13,7 @@ const resources = [
   { name: 'Donation Options', href: '/donations' },
   { name: 'What We Take', href: '/what-we-take' },
   { name: 'Pricing Guide', href: '/pricing' },
-  { name: 'Blog', href: '/blog' },
+  { name: 'Blog', href: '/blogs' },
 ]
 
 export function Header() {
@@ -59,7 +59,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center lg:flex-1 flex-1 justify-start">
             <span className="text-lg sm:text-xl lg:text-2xl font-bold text-white">
-              <span className="text-[#FFC845]">Furniture</span> Removal Pros
+              <span className="text-[#FFC845]">Boise</span> Furniture Removal
             </span>
           </Link>
 
@@ -85,7 +85,7 @@ export function Header() {
                   <ul className="space-y-2">
                     {serviceAreas.map((area) => (
                       <li key={area}>
-                        <Link href={`/${area.toLowerCase()}`} className="text-sm text-gray-600 hover:text-[#ff6b35] transition-colors">
+                        <Link href={`/cities-served/${area.toLowerCase()}`} className="text-sm text-gray-600 hover:text-[#ff6b35] transition-colors">
                           {area}, Idaho
                         </Link>
                       </li>
@@ -125,18 +125,18 @@ export function Header() {
           <div className="flex items-center flex-1 justify-center lg:justify-end">
             {/* Mobile: Call Now Button */}
             <a
-              href="tel:2083611982"
+              href="tel:2085059352"
               className="lg:hidden bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold px-4 py-1.5 rounded-lg text-sm"
             >
               Call Now
             </a>
             {/* Desktop: Phone Number */}
             <a
-              href="tel:2083611982"
+              href="tel:2085059352"
               className="hidden lg:flex items-center gap-1.5 text-white hover:text-gray-200 transition-colors font-bold text-lg xl:text-xl whitespace-nowrap"
             >
               <Phone className="h-5 w-5 xl:h-6 xl:w-6" />
-              <span>(208) 361-1982</span>
+              <span>(208) 505-9352</span>
             </a>
           </div>
 
@@ -159,7 +159,7 @@ export function Header() {
               <Link href="/#services" className="text-white font-semibold hover:text-gray-200" onClick={() => setIsMobileMenuOpen(false)}>Services</Link>
               <span className="text-white/60 text-sm font-medium pt-2">Service Areas</span>
               {serviceAreas.map((area) => (
-                <Link key={area} href={`/${area.toLowerCase()}`} className="text-white/90 hover:text-white pl-4" onClick={() => setIsMobileMenuOpen(false)}>
+                <Link key={area} href={`/cities-served/${area.toLowerCase()}`} className="text-white/90 hover:text-white pl-4" onClick={() => setIsMobileMenuOpen(false)}>
                   {area}
                 </Link>
               ))}
@@ -171,7 +171,7 @@ export function Header() {
               ))}
               <div className="flex flex-col space-y-2 pt-4">
                 <Button asChild className="bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold w-full">
-                  <a href="tel:2083611982">Call Now</a>
+                  <a href="tel:2085059352">Call Now</a>
                 </Button>
               </div>
             </nav>

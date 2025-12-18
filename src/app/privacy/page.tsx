@@ -2,10 +2,10 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Hoarding Cleanup Pros',
-  description: 'Privacy policy for Hoarding Cleanup Pros - how we collect, use, and protect your personal information.',
+  title: 'Privacy Policy | Top Shelf Furniture Removal',
+  description: 'Privacy policy for Top Shelf Furniture Removal - how we collect, use, and protect your personal information.',
   alternates: {
-    canonical: 'https://boise-hoarding-cleanup.com/privacy',
+    canonical: 'https://boise-furniture-removal.com/privacy',
   },
 }
 
@@ -15,11 +15,11 @@ export default function PrivacyPage() {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-4xl font-bold text-gunmetal mb-4">Privacy Policy</h1>
-          <p className="text-gray-500 mb-8">Last updated: December 12, 2024</p>
+          <p className="text-gray-500 mb-8">Last updated: December 17, 2024</p>
 
           <div className="prose prose-lg max-w-none text-gray-600">
             <p>
-              Hoarding Cleanup Pros (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+              Top Shelf Furniture Removal (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">Information We Collect</h2>
@@ -29,7 +29,7 @@ export default function PrivacyPage() {
             <ul>
               <li>Name and contact information (phone number, email address)</li>
               <li>Service address and location information</li>
-              <li>Details about your cleanup needs and situation</li>
+              <li>Details about your furniture removal needs</li>
               <li>Preferred appointment dates and times</li>
               <li>Payment information (when applicable)</li>
             </ul>
@@ -47,7 +47,7 @@ export default function PrivacyPage() {
             <p>We use the information we collect to:</p>
             <ul>
               <li>Respond to your inquiries and provide quotes</li>
-              <li>Schedule and perform hoarding cleanup services</li>
+              <li>Schedule and perform furniture removal services</li>
               <li>Communicate with you about your service appointment</li>
               <li>Send appointment reminders and follow-up communications</li>
               <li>Process payments for services rendered</li>
@@ -107,8 +107,8 @@ export default function PrivacyPage() {
               If you have questions about this Privacy Policy or our privacy practices, please contact us:
             </p>
             <ul>
-              <li><strong>Phone:</strong> (208) 361-1982</li>
-              <li><strong>Email:</strong> info@boise-hoarding-cleanup.com</li>
+              <li><strong>Phone:</strong> (208) 505-9352</li>
+              <li><strong>Email:</strong> info@boise-furniture-removal.com</li>
             </ul>
           </div>
 

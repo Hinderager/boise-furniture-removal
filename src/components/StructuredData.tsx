@@ -49,10 +49,10 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": `Furniture Removal Pros - ${city}`,
+    "name": `Boise Furniture Removal - ${city}`,
     "description": `Professional furniture removal and hauling services in ${city}, Idaho. Same-day pickup available. We remove couches, mattresses, desks, and all types of furniture.`,
     "url": "https://boise-furniture-removal.com",
-    "telephone": "+1-208-361-1982",
+    "telephone": "+1-208-505-9352",
     "email": "info@boise-furniture-removal.com",
     "address": {
       "@type": "PostalAddress",
@@ -109,7 +109,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "serviceType": "Furniture Removal Services",
     "provider": {
       "@type": "LocalBusiness",
-      "name": "Furniture Removal Pros"
+      "name": "Boise Furniture Removal"
     },
     "areaServed": {
       "@type": "State",
