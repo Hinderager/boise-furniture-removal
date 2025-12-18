@@ -4,7 +4,7 @@ const features = [
   {
     icon: Heart,
     title: 'We Get It',
-    description: 'We handle furniture removal with care and respect. Whether it's a single couch or a whole houseful, we treat your property right.',
+    description: 'We handle furniture removal with care and respect. Whether it is a single couch or a whole houseful, we treat your property right.',
   },
   {
     icon: Shield,

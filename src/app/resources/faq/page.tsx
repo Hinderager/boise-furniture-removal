@@ -14,27 +14,27 @@ const faqs = [
   },
   {
     question: 'Do you offer same-day service?',
-    answer: 'Often, yes. If we have availability, we can usually schedule same-day or next-day pickup. Call us in the morning and there's a good chance we can be there that afternoon.'
+    answer: 'Often, yes. If we have availability, we can usually schedule same-day or next-day pickup. Call us in the morning and there is a good chance we can be there that afternoon.'
   },
   {
     question: 'What furniture do you remove?',
-    answer: 'Pretty much anything. Couches, sofas, sectionals, mattresses, box springs, dressers, tables, chairs, desks, filing cabinets, recliners, entertainment centers, patio furniture, and more. If it's furniture, we'll haul it.'
+    answer: 'Pretty much anything. Couches, sofas, sectionals, mattresses, box springs, dressers, tables, chairs, desks, filing cabinets, recliners, entertainment centers, patio furniture, and more. If it is furniture, we will haul it.'
   },
   {
     question: 'Do I need to be home during removal?',
-    answer: 'Not necessarily. As long as we have access to the furniture and know what goes, you don't have to be there. Many customers leave for work and come home to an empty space.'
+    answer: 'Not necessarily. As long as we have access to the furniture and know what goes, you do not have to be there. Many customers leave for work and come home to an empty space.'
   },
   {
     question: 'Will you donate my furniture?',
-    answer: 'If it's in good condition, absolutely. We work with local charities and donation centers. We'll even provide a receipt for tax purposes if you need one.'
+    answer: 'If it is in good condition, absolutely. We work with local charities and donation centers. We will even provide a receipt for tax purposes if you need one.'
   },
   {
     question: 'Can you remove furniture from upstairs?',
-    answer: 'Yep. Stairs, tight hallways, narrow doorways — we've handled it all. That's literally what we do.'
+    answer: 'Yep. Stairs, tight hallways, narrow doorways - we have handled it all. That is literally what we do.'
   },
   {
-    question: 'What if the furniture doesn't fit through the door?',
-    answer: 'We'll disassemble it if needed. Most furniture can be taken apart to fit through standard doorways. If it can't, we'll figure out another way.'
+    question: 'What if the furniture does not fit through the door?',
+    answer: 'We will disassemble it if needed. Most furniture can be taken apart to fit through standard doorways. If it cannot, we will figure out another way.'
   },
   {
     question: 'Do you recycle?',
@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     question: 'How do I schedule a pickup?',
-    answer: 'Just call us at (208) 505-9352. We'll ask what you have, give you a quote, and set up a time that works for you.'
+    answer: 'Just call us at (208) 505-9352. We will ask what you have, give you a quote, and set up a time that works for you.'
   },
   {
     question: 'What payment methods do you accept?',
@@ -50,7 +50,7 @@ const faqs = [
   },
   {
     question: 'Are you licensed and insured?',
-    answer: 'Yes. We're fully licensed to operate in Idaho and carry liability insurance plus workers' comp. You're protected.'
+    answer: 'Yes. We are fully licensed to operate in Idaho and carry liability insurance plus workers comp. You are protected.'
   },
   {
     question: 'What areas do you serve?',

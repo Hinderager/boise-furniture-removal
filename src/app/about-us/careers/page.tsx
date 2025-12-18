@@ -3,7 +3,7 @@ import { Phone, Truck, DollarSign, Clock, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Careers | Top Shelf Furniture Removal',
-  description: 'Join the Top Shelf Furniture Removal team. We're hiring furniture removal specialists in Boise and the Treasure Valley. Great pay, flexible hours.',
+  description: 'Join the Top Shelf Furniture Removal team. We are hiring furniture removal specialists in Boise and the Treasure Valley. Great pay, flexible hours.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/careers' },
 }
 
