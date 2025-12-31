@@ -74,7 +74,7 @@ export function ServiceAreas() {
           <p className="text-gray-600">
             Don&apos;t see your city listed? We likely serve your area too!{' '}
             <a href="tel:2083611982" className="text-dark-blue font-bold underline hover:text-light-blue">
-              Call (208) 505-9352
+              Call (208) 943-5231
             </a>
             {' '}to confirm service availability.
           </p>

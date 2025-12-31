@@ -69,7 +69,7 @@ export default function PricingPage() {
 
             <div className="bg-gray-50 p-6 rounded-lg mb-12">
               <h3 className="text-2xl font-bold text-dark-blue mb-4">How to Get a Quote</h3>
-              <p className="text-gray-700 mb-4">Call us at (208) 505-9352. We'll ask:</p>
+              <p className="text-gray-700 mb-4">Call us at (208) 943-5231. We'll ask:</p>
               <ul className="space-y-2 text-gray-700">
                 <li>• What furniture needs to go</li>
                 <li>• Where it's located (floor, stairs, etc.)</li>
@@ -81,8 +81,8 @@ export default function PricingPage() {
             <div className="bg-dark-blue rounded-xl p-8 text-center text-white">
               <h3 className="text-2xl font-bold mb-4">Get Your Free Quote Now</h3>
               <p className="text-gray-300 mb-6">Call for upfront, honest pricing with no obligation.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

@@ -31,7 +31,7 @@ All 8 files have been successfully customized for the furniture removal business
   - Office Furniture
   - Outdoor Furniture
 - Phone: (208) 505-9352
-- Email: info@boise-furniture-removal.com
+- Email: info@topshelfpros.com
 - Copyright: Boise Furniture Removal
 
 ### 5. src/components/ServicesGrid.tsx
@@ -55,7 +55,7 @@ All 8 files have been successfully customized for the furniture removal business
 ### 8. src/components/StructuredData.tsx
 - Business name: "Boise Furniture Removal"
 - Phone: +1-208-505-9352
-- Email: info@boise-furniture-removal.com
+- Email: info@topshelfpros.com
 - Service types: Furniture Removal, Couch Removal, Sofa Removal, Mattress Removal, Desk Removal, Office Furniture Removal, etc.
 - 8 FAQs optimized for LLM seeding
 - LocalBusiness and Service schema
@@ -64,7 +64,7 @@ All 8 files have been successfully customized for the furniture removal business
 ## Contact Information:
 - Phone: (208) 505-9352
 - Domain: boise-furniture-removal.com
-- Email: info@boise-furniture-removal.com
+- Email: info@topshelfpros.com
 
 ## Writing Style Applied:
 - Natural, conversational tone

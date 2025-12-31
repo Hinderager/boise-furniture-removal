@@ -3,7 +3,7 @@ import { Phone, Mail, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Contact Us | Top Shelf Furniture Removal',
-  description: 'Contact Top Shelf Furniture Removal in Boise. Call (208) 505-9352 for fast furniture removal service.',
+  description: 'Contact Top Shelf Furniture Removal in Boise. Call (208) 943-5231 for fast furniture removal service.',
   alternates: { canonical: 'https://boise-furniture-removal.com/contact' },
 }
 
@@ -25,7 +25,7 @@ export default function ContactPage() {
                 <Phone className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-2xl font-bold text-dark-blue mb-2">Call Us</h3>
                 <p className="text-gray-600 mb-4">The fastest way to schedule pickup or get a quote.</p>
-                <a href="tel:2085059352" className="text-2xl font-bold text-dark-blue hover:text-[#0b7fb6]">(208) 505-9352</a>
+                <a href="tel:2089435231" className="text-2xl font-bold text-dark-blue hover:text-[#0b7fb6]">(208) 943-5231</a>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-lg">
@@ -91,14 +91,14 @@ export default function ContactPage() {
 
             <div className="bg-[#FFC845]/10 border-l-4 border-[#FFC845] p-6 mb-12">
               <h3 className="text-xl font-bold text-dark-blue mb-2">Prefer to Text?</h3>
-              <p className="text-gray-700">Text (208) 505-9352 with a quick description of what you need removed and we'll get back to you with a quote.</p>
+              <p className="text-gray-700">Text (208) 943-5231 with a quick description of what you need removed and we'll get back to you with a quote.</p>
             </div>
 
             <div className="bg-dark-blue rounded-xl p-8 text-center text-white">
               <h3 className="text-2xl font-bold mb-4">Let's Get That Furniture Outta There</h3>
               <p className="text-gray-300 mb-6">Call now for fast, professional furniture removal in Boise.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

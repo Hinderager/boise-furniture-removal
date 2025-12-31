@@ -7,54 +7,10 @@ import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 // Static reviews for furniture removal
 const staticReviews = [
-  {
-    author: 'Mike S.',
-    relative_time: '2 months ago',
-    rating: 5,
-    text: 'Had an old sectional that wouldn\'t fit through the door. These guys took it apart and got it out without damaging anything. Super impressed with their problem-solving and speed.',
-  },
-  {
-    author: 'Sarah L.',
-    relative_time: '1 month ago',
-    rating: 5,
-    text: 'We were moving and needed to get rid of a bunch of old furniture fast. They came same day and cleared out everything—couch, dining set, dressers, the works. Fair price too.',
-  },
-  {
-    author: 'Tom R.',
-    relative_time: '3 weeks ago',
-    rating: 5,
-    text: 'Very professional crew. They removed our old mattresses and bed frames quickly. Appreciated that they were careful not to scratch the walls going down the stairs.',
-  },
-  {
-    author: 'Jennifer K.',
-    relative_time: '2 weeks ago',
-    rating: 5,
-    text: 'Called in the morning, they were here by afternoon. Took away an old sofa and loveseat. Quick, easy, no hassle. Exactly what I needed.',
-  },
-  {
-    author: 'David M.',
-    relative_time: '1 month ago',
-    rating: 5,
-    text: 'Great experience. They handled our office furniture removal after we downsized. Desks, chairs, file cabinets—all gone in a few hours. Would definitely use again.',
-  },
-  {
-    author: 'Lisa H.',
-    relative_time: '3 months ago',
-    rating: 5,
-    text: 'They donated our old furniture to charity instead of just dumping it. That really meant a lot to us. Great service and they genuinely care about doing the right thing.',
-  },
-  {
-    author: 'Robert B.',
-    relative_time: '2 months ago',
-    rating: 5,
-    text: 'Had a heavy oak dining table that I couldn\'t move myself. These guys made it look easy. Friendly, fast, and affordable. Highly recommend.',
-  },
-  {
-    author: 'Amanda C.',
-    relative_time: '1 week ago',
-    rating: 5,
-    text: 'Cleared out my late mother\'s house furniture. They were respectful, patient, and thorough. Made a difficult time a little easier. Thank you.',
-  },
+  { author: 'Rachelle Tridle', rating: 5, text: 'Top Shelf Junk Removers were awesome! They showed up on time, took everything that was quoted — plus a few extra items I had on site — with no hassle. Super fast, efficient, affordable, and even had change because I paid with cash!. Great service all around. Highly recommend!' },
+  { author: 'Jeff Rau', rating: 5, text: 'Exceptional service and response from Top Shelf. Cleaning out a family home and we were able to fill a 15 cubic yard dumpster twice! Both deliveries were very timely and working with Top Shelf staff was great! Thank you for helping make our chore easier and efficient. I would easily recommend this business to others.' },
+  { author: 'Katrina Vincent', rating: 5, text: 'We recently hired Top Shelf to assist a client who had been a long time tenant for the company I work for, it was a big project, riddled with challenges. They far exceeded my expectations. Not only did they arrive on time and get right to work, they treated our clients with kindness and respect. They were extremely helpful and hard working. They accommodated our needs for appointment times and seemed to really want to earn our business. I hope to be able to utilize their services again! Would very highly recommend.' },
+  { author: 'Kevin McSpadden', rating: 5, text: 'Eric and Gabe were great. Positive attitude and tackled the job without complaint Pricing was great and will definitely use them again!' },
 ]
 
 export function GoogleReviews() {
@@ -62,7 +18,7 @@ export function GoogleReviews() {
   const [expandedReviews, setExpandedReviews] = useState(false)
   const reviewsPerPage = 4
   const rating = 5.0
-  const totalReviews = 100
+  const totalReviews = 323
 
   const nextSlide = () => {
     setCurrentIndex((prev) =>
@@ -151,7 +107,6 @@ export function GoogleReviews() {
                           <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
                         </svg>
                       </div>
-                      <p className="text-sm text-gray-500">{review.relative_time}</p>
                     </div>
                   </div>
 
@@ -225,9 +180,9 @@ export function GoogleReviews() {
         {/* CTA Buttons */}
         <div className="flex flex-row gap-4 justify-center mt-12">
           <Button asChild size="lg" className="bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold text-lg px-10 py-6 rounded-lg uppercase border-4 border-ub-yellow">
-            <a href="tel:2085059352">
+            <a href="tel:2089435231">
               <span className="md:hidden">Call Now</span>
-              <span className="hidden md:inline">(208) 505-9352</span>
+              <span className="hidden md:inline">(208) 943-5231</span>
             </a>
           </Button>
         </div>
