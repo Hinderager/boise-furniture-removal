@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: 'Furniture Removal Boise | Same-Day Pickup | Boise Furniture Removal',
     description: 'Professional furniture removal in the Treasure Valley. We haul away all types of furniture with same-day service available. Licensed and insured.',
     url: 'https://boise-furniture-removal.com',
-    siteName: 'Boise Furniture Removal',
+    siteName: 'Top Shelf Furniture Removal',
     locale: 'en_US',
     type: 'website',
   },

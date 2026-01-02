@@ -49,7 +49,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": `Boise Furniture Removal - ${city}`,
+    "name": `Top Shelf Furniture Removal - ${city}`,
     "description": `Professional furniture removal and hauling services in ${city}, Idaho. Same-day pickup available. We remove couches, mattresses, desks, and all types of furniture.`,
     "url": "https://boise-furniture-removal.com",
     "telephone": "+1-208-943-5231",
@@ -109,7 +109,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "serviceType": "Furniture Removal Services",
     "provider": {
       "@type": "LocalBusiness",
-      "name": "Boise Furniture Removal"
+      "name": "Top Shelf Furniture Removal"
     },
     "areaServed": {
       "@type": "State",
