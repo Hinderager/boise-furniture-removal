@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { Phone, Armchair, Bed, Utensils, TreePine } from 'lucide-react'
+import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 
 export const metadata: Metadata = {
   title: 'Services | Top Shelf Furniture Removal',
@@ -42,6 +43,8 @@ export default function ServicesPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Our Services</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">We remove all types of furniture from homes and businesses in Boise and the Treasure Valley.</p>
+
+          <QuickQuoteBar />
         </div>
       </section>
 
