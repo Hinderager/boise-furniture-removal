@@ -5,6 +5,7 @@ import './globals.css'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { StructuredData } from '@/components/StructuredData'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 import { QuoteFormProvider } from '@/context/QuoteFormContext'
 
 const montserrat = Montserrat({
@@ -24,8 +25,8 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-furniture-removal.com'),
   title: {
-    default: 'Furniture Removal Boise | Same-Day Pickup | Boise Furniture Removal',
-    template: '%s | Furniture Removal Boise',
+    default: 'Boise Furniture Removal | Same-Day Pickup | Top Shelf',
+    template: '%s | Boise Furniture Removal',
   },
   description: 'Professional furniture removal in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. We haul away old couches, chairs, tables, dressers, and more. Same-day service available. Call (208) 943-5231.',
   keywords: [
@@ -84,6 +85,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
         <StructuredData />
+        <BreadcrumbSchema siteName="Top Shelf Furniture Removal" siteUrl="https://boise-furniture-removal.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
