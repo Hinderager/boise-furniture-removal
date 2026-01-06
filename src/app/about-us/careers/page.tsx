@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Truck, DollarSign, Clock, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -16,6 +17,8 @@ export default function CareersPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">We're looking for hardworking people who want a job with good pay, flexible hours, and no drama.</p>
         </div>
       </section>
+
+      <VisibleBreadcrumb />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

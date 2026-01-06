@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { Phone } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Outdoor Furniture Removal | Top Shelf',
@@ -20,6 +21,7 @@ export default function OutdoorPage() {
           </a>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
