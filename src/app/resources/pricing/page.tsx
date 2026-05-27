@@ -32,16 +32,16 @@ export default function PricingPage() {
             </div>
 
             <div className="bg-[#FFC845]/10 border-l-4 border-[#FFC845] p-6 mb-12">
-              <h3 className="text-2xl font-bold text-dark-blue mb-4">Typical Price Ranges</h3>
-              <p className="text-gray-700 mb-4">Here's a rough idea of what common jobs cost. Your actual price may vary based on specifics.</p>
+              <h3 className="text-2xl font-bold text-dark-blue mb-4">Common Furniture Removal Jobs</h3>
+              <p className="text-gray-700 mb-4">Here's a quick guide to the kinds of jobs we handle. Every situation is different, so call for an honest quote.</p>
               <ul className="space-y-2 text-gray-700">
-                <li><strong>Single Couch or Mattress:</strong> $75-150</li>
-                <li><strong>Sectional or Large Sofa:</strong> $125-200</li>
-                <li><strong>Bedroom Set (bed, dresser, nightstands):</strong> $200-350</li>
-                <li><strong>Dining Table & Chairs:</strong> $150-250</li>
-                <li><strong>Office Furniture (desk, filing cabinets):</strong> $150-300</li>
-                <li><strong>Full Room of Furniture:</strong> $300-600+</li>
-                <li><strong>Whole House Cleanout:</strong> Call for estimate</li>
+                <li><strong>Single Couch or Mattress:</strong> The most common single-item pickup.</li>
+                <li><strong>Sectional or Large Sofa:</strong> Heavier, sometimes requires disassembly.</li>
+                <li><strong>Bedroom Set (bed, dresser, nightstands):</strong> Multi-piece bundle.</li>
+                <li><strong>Dining Table &amp; Chairs:</strong> Often disassembled for safe removal.</li>
+                <li><strong>Office Furniture (desk, filing cabinets):</strong> Bulky, sometimes heavy.</li>
+                <li><strong>Full Room of Furniture:</strong> Volume-based pricing instead of per-item.</li>
+                <li><strong>Whole House Cleanout:</strong> Call for estimate.</li>
               </ul>
             </div>
 

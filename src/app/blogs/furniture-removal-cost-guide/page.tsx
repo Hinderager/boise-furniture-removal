@@ -73,19 +73,19 @@ export default function FurnitureRemovalCostGuide() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Single item (couch, recliner, mattress):</strong> $75-$150. Smaller items like chairs or side tables often fall at the lower end. Large sectionals or heavy sleeper sofas at the higher end.
+              <strong>Single item (couch, recliner, mattress):</strong> The simplest job. Smaller items like chairs or side tables are on the easier end. Large sectionals or heavy sleeper sofas take more work.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Several pieces (bedroom set, living room furniture):</strong> $150-$350. Bundling items usually gets you a better per-item rate than picking them up separately.
+              <strong>Several pieces (bedroom set, living room furniture):</strong> Bundling items usually gets you a better per-item rate than picking them up separately.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Full room or houseful:</strong> $350-$800+. When you're clearing significant furniture, pricing typically shifts to volume-based rather than per-item.
+              <strong>Full room or houseful:</strong> When you're clearing significant furniture, pricing typically shifts to volume-based rather than per-item.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Mattress-specific removal:</strong> $100-$175 for standard mattress and box spring. Some companies charge extra for mattresses due to disposal requirements.
+              <strong>Mattress-specific removal:</strong> Standard mattress and box spring. Some companies charge extra for mattresses due to disposal requirements.
             </p>
           </div>
         </div>
@@ -146,11 +146,11 @@ export default function FurnitureRemovalCostGuide() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Truck rental:</strong> $20-$40 for a few hours, plus mileage and insurance. A day rental runs $50-$100+.
+              <strong>Truck rental:</strong> A few hours of truck rental plus mileage and insurance. Day rentals cost more if you need extra time.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Dump fees:</strong> Ada County landfill charges by weight. Expect $20-$50 minimum for furniture, potentially more for a full load.
+              <strong>Dump fees:</strong> Ada County landfill charges by weight. There's a minimum charge for any furniture load, more for heavier loads.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -162,7 +162,7 @@ export default function FurnitureRemovalCostGuide() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Real cost comparison:</strong> DIY for a single couch might cost $50-$80 plus 2+ hours of your Saturday. Professional removal costs $100-$125 and takes 20 minutes of your time. The math often favors calling someone.
+              <strong>Real cost comparison:</strong> DIY for a single couch adds up between truck rental, fuel, and dump fees—plus 2+ hours of your Saturday. Professional removal takes 20 minutes of your time. The math often favors calling someone.
             </p>
           </div>
         </div>
@@ -243,7 +243,7 @@ export default function FurnitureRemovalCostGuide() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Most single-item furniture removal in Boise runs $75-$150. Multiple pieces or full rooms scale up from there based on volume and difficulty.
+              Single-item furniture removal in Boise is the most budget-friendly end of the range. Multiple pieces or full rooms scale up from there based on volume and difficulty.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">

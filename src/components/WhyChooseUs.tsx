@@ -9,7 +9,7 @@ const features = [
   {
     icon: Shield,
     title: 'Licensed & Insured',
-    description: 'Fully licensed with $1M liability coverage. We handle heavy furniture safely and protect your property during removal.',
+    description: 'Fully licensed and insured. We handle heavy furniture safely and protect your property during removal.',
   },
   {
     icon: Clock,

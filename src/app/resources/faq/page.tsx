@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     question: 'How much does furniture removal cost?',
-    answer: 'It depends on how much furniture you have and how much labor is involved. Most small jobs (single couch, mattress) run $75-150. Larger jobs (full room, multiple pieces) can be $200-500+. We quote based on volume and labor, not by the hour. Call for a free estimate.'
+    answer: 'It depends on how much furniture you have, what kind it is, where it sits in your home, and how much labor is involved. Single items are the easiest end of the range; full rooms or multi-piece jobs scale up from there. We quote based on volume and labor, not by the hour. Call for a free estimate.'
   },
   {
     question: 'Do you offer same-day service?',

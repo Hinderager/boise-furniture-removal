@@ -12,7 +12,7 @@ export const faqs = [
   },
   {
     question: 'How much does furniture removal cost?',
-    answer: 'Pricing depends on the size and quantity of items. A single couch or mattress typically costs less than clearing out an entire room of furniture. We give free quotes over the phone or in person—no surprises, no hidden fees. Most single-item pickups range from $75-$150.'
+    answer: 'Pricing depends on the size and quantity of items, where they sit in your home (ground floor vs. upstairs), how easy the access is, and whether anything needs disassembly. A single couch or mattress is one thing; clearing out an entire room of furniture is another. We give free quotes over the phone or in person—no surprises, no hidden fees.'
   },
   {
     question: 'Do you offer same-day furniture removal?',

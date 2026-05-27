@@ -11,7 +11,7 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 const faqData = [
   {
     question: 'How much does furniture removal cost in Boise?',
-    answer: 'Furniture removal costs depend on the size and quantity of items. Single-item pickups like a couch or mattress typically range from $75-$150. Larger jobs like clearing out multiple rooms are priced based on truck space needed. We provide free quotes with no hidden fees.',
+    answer: 'Furniture removal costs depend on the size and quantity of items, location in your home, access difficulty, and whether anything needs disassembly. Single-item pickups are the easiest end of the range. Larger jobs like clearing out multiple rooms are priced based on truck space needed. We provide free quotes with no hidden fees.',
   },
   {
     question: 'What types of furniture do you remove?',
@@ -86,7 +86,6 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "Furniture Pickup",
       "Furniture Disposal"
     ],
-    "priceRange": "$$",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -115,15 +114,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "@type": "State",
       "name": "Idaho"
     },
-    "description": `Professional furniture removal and hauling services in ${city} and the Treasure Valley. We remove couches, mattresses, desks, office furniture, and more with same-day service available.`,
-    "offers": {
-      "@type": "Offer",
-      "availability": "https://schema.org/InStock",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "priceCurrency": "USD"
-      }
-    }
+    "description": `Professional furniture removal and hauling services in ${city} and the Treasure Valley. We remove couches, mattresses, desks, office furniture, and more with same-day service available.`
   }
 
   // FAQPage schema - critical for LLM seeding and AI search visibility

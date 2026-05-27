@@ -89,7 +89,7 @@ export default function GettingRidOfOldFurnitureBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Reality check:</strong> Most used furniture sells for 20-30% of what you paid. That $2,000 couch might bring $300-$500 if you're lucky. Factor in the time dealing with buyers, no-shows, and lowballers.
+              <strong>Reality check:</strong> Most used furniture sells for 20-30% of what you paid. A pricey new couch usually brings only a fraction of that on the resale market. Factor in the time dealing with buyers, no-shows, and lowballers.
             </p>
           </div>
         </div>
@@ -185,11 +185,11 @@ export default function GettingRidOfOldFurnitureBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Cost:</strong> Minimum charge plus weight-based fees. A couple furniture pieces typically runs $20-$50. A full load could be more.
+              <strong>Cost:</strong> Minimum charge plus weight-based fees. A couple furniture pieces is a modest expense. A full load adds up.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Consider:</strong> Rent a truck if you don't have one ($40-$100 for a day). Factor in your time—loading, driving, waiting in line, unloading. Half a Saturday minimum.
+              <strong>Consider:</strong> Rent a truck if you don't have one (figure on a day's rental plus mileage). Factor in your time—loading, driving, waiting in line, unloading. Half a Saturday minimum.
             </p>
           </div>
         </div>
@@ -216,7 +216,7 @@ export default function GettingRidOfOldFurnitureBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Cost:</strong> Single items typically $75-$150. Multiple pieces or full rooms scale from there. More expensive than DIY, but your time has value too.
+              <strong>Cost:</strong> Single items are the most affordable. Multiple pieces or full rooms scale from there. More expensive than DIY on paper, but your time has value too.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
