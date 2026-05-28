@@ -6,28 +6,28 @@ const services = [
     title: 'Residential Furniture Removal',
     description: 'Replacing your old couch? Finally getting rid of that worn-out recliner? We make it easy. Our team shows up, does all the heavy lifting, and hauls your old furniture away. No need to worry about how you\'ll get it out of the house or to the dump—we handle everything.',
     image: '/generated/couch-removal.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Mattress & Bed Frame Removal',
     description: 'Old mattresses are awkward to move and most places won\'t take them. We do. Whether it\'s one mattress or a whole bedroom set—including box springs, bed frames, and headboards—we\'ll haul it all away and make sure it\'s disposed of properly.',
     image: '/generated/mattress-removal.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Office Furniture Removal',
     description: 'Upgrading your office? Moving locations? We remove desks, chairs, cubicles, file cabinets, and more. We work around your schedule to minimize disruption to your business. Fast, professional, and hassle-free office cleanouts.',
     image: '/generated/dining-set-removal.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Donation & Recycling',
     description: 'Good furniture shouldn\'t go to waste. When possible, we donate usable items to local charities. What can\'t be donated gets recycled responsibly. You get rid of your old stuff and feel good knowing it\'s handled the right way.',
     image: '/generated/bedroom-furniture.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
 ]
@@ -96,9 +96,9 @@ export function ServicesShowcase() {
         {/* CTA Buttons */}
         <div className="flex flex-row gap-4 justify-center mt-16">
           <Button asChild size="lg" className="bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold text-lg px-10 py-6 rounded-lg uppercase border-4 border-ub-yellow">
-            <a href="tel:2083611982">
+            <a href="tel:2089435231">
               <span className="md:hidden">Call Now</span>
-              <span className="hidden md:inline">(208) 361-1982</span>
+              <span className="hidden md:inline">(208) 943-5231</span>
             </a>
           </Button>
         </div>

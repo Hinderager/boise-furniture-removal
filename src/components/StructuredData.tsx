@@ -19,7 +19,7 @@ const faqData = [
   },
   {
     question: 'Do you offer same-day furniture removal?',
-    answer: 'Yes! We offer same-day furniture removal service in the Boise and Treasure Valley area. If you call in the morning, we can usually be there by afternoon. For urgent situations, call us at (208) 361-1982.',
+    answer: 'Yes! We offer same-day furniture removal service in the Boise and Treasure Valley area. If you call in the morning, we can usually be there by afternoon. For urgent situations, call us at (208) 943-5231.',
   },
   {
     question: 'Will you donate my old furniture?',
