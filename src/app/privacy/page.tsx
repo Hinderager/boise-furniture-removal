@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Top Shelf Furniture Removal',
-  description: 'Privacy policy for Top Shelf Furniture Removal - how we collect, use, and protect your personal information.',
+  title: 'Privacy Policy | Boise Furniture Removal',
+  description: 'Privacy policy for Boise Furniture Removal - how we collect, use, and protect your personal information.',
   alternates: {
     canonical: 'https://boise-furniture-removal.com/privacy',
   },
@@ -20,7 +20,7 @@ export default function PrivacyPage() {
 
           <div className="prose prose-lg max-w-none text-gray-600">
             <p>
-              Top Shelf Furniture Removal (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+              Boise Furniture Removal (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">Information We Collect</h2>
@@ -109,7 +109,6 @@ export default function PrivacyPage() {
             </p>
             <ul>
               <li><strong>Phone:</strong> (208) 943-5231</li>
-              <li><strong>Email:</strong> info@topshelfpros.com</li>
             </ul>
           </div>
 

@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, AlertTriangle } from 'lucide-react'
@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Boise ID | Top Shelf Furniture Removal',
+  title: 'Recliner & Chair Removal Boise ID | Boise Furniture Removal',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Boise, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Boise', 'furniture removal Boise', 'junk removal Boise'],
   alternates: {
@@ -46,7 +46,7 @@ export default function BoiseReclinerRemovalPage() {
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Recliner & Chair Removal Services in Boise</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Need recliner removal in Boise? We make it easy. You point, we haul. No heavy lifting for you.</p>
-              <p>Top Shelf Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
+              <p>Boise Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Common Recliner Removal Challenges We Handle</h3>

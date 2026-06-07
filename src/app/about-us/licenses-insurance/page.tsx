@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Shield, FileCheck, Award } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Licenses & Insurance | Top Shelf Furniture Removal',
-  description: 'Top Shelf Furniture Removal is fully licensed and insured in Idaho. Learn about our credentials and coverage.',
+  title: 'Licenses & Insurance | Boise Furniture Removal',
+  description: 'Boise Furniture Removal is fully licensed and insured in Idaho. Learn about our credentials and coverage.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/licenses-insurance' },
 }
 
@@ -25,7 +25,7 @@ export default function LicensesInsurancePage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
               <p>When someone's hauling furniture out of your house, you want to know they're legit. We get it.</p>
-              <p>Top Shelf Furniture Removal is fully licensed and insured to operate in Idaho. That means if something goes wrong — a scratched floor, a damaged doorframe, an injury on the job — we're covered. You're protected.</p>
+              <p>Boise Furniture Removal is fully licensed and insured to operate in Idaho. That means if something goes wrong — a scratched floor, a damaged doorframe, an injury on the job — we're covered. You're protected.</p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">

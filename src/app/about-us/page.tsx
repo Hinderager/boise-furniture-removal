@@ -1,11 +1,11 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Link from 'next/link'
 import { Phone, Award, Shield, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'About Us | Top Shelf Furniture Removal',
-  description: 'Learn about Top Shelf Furniture Removal. Local furniture removal experts serving the Treasure Valley. Licensed, insured, and committed to fast, friendly service.',
+  title: 'About Us | Boise Furniture Removal',
+  description: 'Learn about Boise Furniture Removal. Local furniture removal experts serving the Treasure Valley. Licensed, insured, and committed to fast, friendly service.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us' },
 }
 
@@ -14,7 +14,7 @@ export default function AboutPage() {
     <main className="pt-20">
       <section className="py-16 bg-gradient-to-b from-dark-blue to-[#1a5a9e]">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">About Top Shelf Furniture Removal</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">About Boise Furniture Removal</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Your trusted local furniture removal team in the Treasure Valley.</p>
         </div>
       </section>
@@ -23,7 +23,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>Top Shelf Furniture Removal is a locally owned and operated junk removal company serving homeowners and businesses throughout the Treasure Valley. We specialize in furniture removal — couches, mattresses, office furniture, outdoor furniture, and more.</p>
+              <p>Boise Furniture Removal is a locally owned and operated junk removal company serving homeowners and businesses throughout the Treasure Valley. We specialize in furniture removal — couches, mattresses, office furniture, outdoor furniture, and more.</p>
               <p>We're not a giant national franchise. We're your neighbors. We live here, work here, and care about this community. When you call us, you get a local team that shows up on time, works fast, and treats your property with respect.</p>
               <p>No hidden fees. No hassle. Just straightforward furniture removal when you need it.</p>
             </div>

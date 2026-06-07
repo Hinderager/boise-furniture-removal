@@ -1,9 +1,9 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, DollarSign } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Pricing | Top Shelf Furniture Removal',
+  title: 'Pricing | Boise Furniture Removal',
   description: 'Transparent furniture removal pricing in Boise. Learn how we price jobs and what factors affect cost.',
   alternates: { canonical: 'https://boise-furniture-removal.com/resources/pricing' },
 }

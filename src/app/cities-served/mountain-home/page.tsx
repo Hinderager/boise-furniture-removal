@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, Armchair } from 'lucide-react'
@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Mountain Home ID | Top Shelf Furniture Removal',
+  title: 'Furniture Removal Mountain Home ID | Boise Furniture Removal',
   description: 'Professional furniture removal services in Mountain Home, Idaho. Couches, mattresses, office furniture & more. Same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Mountain Home', 'junk removal Mountain Home', 'couch removal Mountain Home'],
   alternates: {
@@ -55,7 +55,7 @@ export default function MountainHomeFurniturePage() {
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Furniture Removal Services in Mountain Home</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Got old furniture you need gone? We'll haul it away. Couches. Mattresses. Dressers. Office desks. Whatever you've got, we'll take it.</p>
-              <p>Top Shelf Furniture Removal serves Mountain Home and the entire Treasure Valley. We show up on time, work fast, and leave your space clean. No hidden fees, no hassle.</p>
+              <p>Boise Furniture Removal serves Mountain Home and the entire Treasure Valley. We show up on time, work fast, and leave your space clean. No hidden fees, no hassle.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">What We Remove in Mountain Home</h3>

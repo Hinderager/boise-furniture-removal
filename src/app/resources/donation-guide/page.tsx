@@ -1,9 +1,9 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Heart, CheckCircle, XCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Furniture Donation Guide | Top Shelf Furniture Removal',
+  title: 'Furniture Donation Guide | Boise Furniture Removal',
   description: 'Donate furniture in Boise instead of throwing it away. Learn what can be donated, where it goes, and how to get a tax receipt.',
   alternates: { canonical: 'https://boise-furniture-removal.com/resources/donation-guide' },
 }
@@ -25,7 +25,7 @@ export default function DonationGuidePage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
               <p>Not all old furniture belongs in the dump. If your couch, dresser, or dining table is still in decent shape, someone else can use it.</p>
-              <p>Top Shelf Furniture Removal works with local charities and donation centers throughout the Treasure Valley. If your furniture qualifies, we'll make sure it goes to a good home instead of the landfill.</p>
+              <p>Boise Furniture Removal works with local charities and donation centers throughout the Treasure Valley. If your furniture qualifies, we'll make sure it goes to a good home instead of the landfill.</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">

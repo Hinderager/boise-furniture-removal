@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, CheckCircle, Clock, DollarSign, Recycle, Shield, Users, Truck } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Why Choose Us | Top Shelf Furniture Removal',
-  description: 'Why choose Top Shelf Furniture Removal? Local team, upfront pricing, same-day service, eco-friendly disposal, and no hidden fees.',
+  title: 'Why Choose Us | Boise Furniture Removal',
+  description: 'Why choose Boise Furniture Removal? Local team, upfront pricing, same-day service, eco-friendly disposal, and no hidden fees.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/why-choose-us' },
 }
 

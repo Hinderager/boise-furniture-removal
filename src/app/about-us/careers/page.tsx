@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Truck, DollarSign, Clock, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Careers | Top Shelf Furniture Removal',
-  description: 'Join the Top Shelf Furniture Removal team. We are hiring furniture removal specialists in Boise and the Treasure Valley. Great pay, flexible hours.',
+  title: 'Careers | Boise Furniture Removal',
+  description: 'Join the Boise Furniture Removal team. We are hiring furniture removal specialists in Boise and the Treasure Valley. Great pay, flexible hours.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/careers' },
 }
 
@@ -66,7 +66,7 @@ export default function CareersPage() {
 
             <div className="bg-dark-blue rounded-xl p-8 text-center text-white">
               <h3 className="text-2xl font-bold mb-4">Interested? Let's Talk.</h3>
-              <p className="text-gray-300 mb-6">Call us or send your resume to jobs@topshelfpros.com</p>
+              <p className="text-gray-300 mb-6">Give us a call to talk about open positions.</p>
               <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
                 <Phone className="w-5 h-5" />(208) 943-5231
               </a>

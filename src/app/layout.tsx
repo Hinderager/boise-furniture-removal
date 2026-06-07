@@ -1,4 +1,4 @@
-import type { Metadata, Viewport } from 'next'
+﻿import type { Metadata, Viewport } from 'next'
 import { Montserrat, Oswald } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
@@ -25,7 +25,7 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-furniture-removal.com'),
   title: {
-    default: 'Boise Furniture Removal | Same-Day Pickup | Top Shelf',
+    default: 'Boise Furniture Removal | Same-Day Pickup',
     template: '%s | Boise Furniture Removal',
   },
   description: 'Professional furniture removal in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. We haul away old couches, chairs, tables, dressers, and more. Same-day service available. Call (208) 943-5231.',
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: 'Furniture Removal Boise | Same-Day Pickup | Boise Furniture Removal',
     description: 'Professional furniture removal in the Treasure Valley. We haul away all types of furniture with same-day service available. Licensed and insured.',
     url: 'https://boise-furniture-removal.com',
-    siteName: 'Top Shelf Furniture Removal',
+    siteName: 'Boise Furniture Removal',
     locale: 'en_US',
     type: 'website',
   },
@@ -82,7 +82,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${oswald.variable} ${montserrat.variable} scroll-smooth`}>
         <StructuredData />
-        <BreadcrumbSchema siteName="Top Shelf Furniture Removal" siteUrl="https://boise-furniture-removal.com" />
+        <BreadcrumbSchema siteName="Boise Furniture Removal" siteUrl="https://boise-furniture-removal.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />

@@ -1,11 +1,11 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Link from 'next/link'
 import { Phone, Armchair, Bed, Utensils, TreePine } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Services | Top Shelf Furniture Removal',
+  title: 'Services | Boise Furniture Removal',
   description: 'Complete furniture removal services in Boise. Living room, bedroom, office, and outdoor furniture removal.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services' },
 }

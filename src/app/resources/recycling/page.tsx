@@ -1,9 +1,9 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Recycle, Leaf } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Furniture Recycling | Top Shelf Furniture Removal',
+  title: 'Furniture Recycling | Boise Furniture Removal',
   description: 'How we recycle furniture in Boise. Learn where old furniture goes and how we minimize landfill waste.',
   alternates: { canonical: 'https://boise-furniture-removal.com/resources/recycling' },
 }

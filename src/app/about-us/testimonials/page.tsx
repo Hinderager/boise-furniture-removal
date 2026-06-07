@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Star } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Customer Reviews | Top Shelf Furniture Removal',
-  description: 'Read what customers say about Top Shelf Furniture Removal. Real reviews from Boise and Treasure Valley residents.',
+  title: 'Customer Reviews | Boise Furniture Removal',
+  description: 'Read what customers say about Boise Furniture Removal. Real reviews from Boise and Treasure Valley residents.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/testimonials' },
 }
 
@@ -63,7 +63,7 @@ export default function TestimonialsPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>We let our work speak for itself. Here's what people are saying about Top Shelf Furniture Removal.</p>
+              <p>We let our work speak for itself. Here's what people are saying about Boise Furniture Removal.</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-6 mb-12">

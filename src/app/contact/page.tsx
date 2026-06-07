@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
-import { Phone, Mail, MapPin, Clock } from 'lucide-react'
+import { Phone, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Top Shelf Furniture Removal',
-  description: 'Contact Top Shelf Furniture Removal in Boise. Call (208) 943-5231 for fast furniture removal service.',
+  title: 'Contact Us | Boise Furniture Removal',
+  description: 'Contact Boise Furniture Removal in Boise. Call (208) 943-5231 for fast furniture removal service.',
   alternates: { canonical: 'https://boise-furniture-removal.com/contact' },
 }
 
@@ -23,19 +23,12 @@ export default function ContactPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <div className="grid md:grid-cols-2 gap-8 mb-12">
+            <div className="grid md:grid-cols-1 gap-8 mb-12">
               <div className="bg-gray-50 p-8 rounded-lg">
                 <Phone className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-2xl font-bold text-dark-blue mb-2">Call Us</h3>
                 <p className="text-gray-600 mb-4">The fastest way to schedule pickup or get a quote.</p>
                 <a href="tel:2089435231" className="text-2xl font-bold text-dark-blue hover:text-[#0b7fb6]">(208) 943-5231</a>
-              </div>
-
-              <div className="bg-gray-50 p-8 rounded-lg">
-                <Mail className="w-12 h-12 text-[#FFC845] mb-4" />
-                <h3 className="text-2xl font-bold text-dark-blue mb-2">Email Us</h3>
-                <p className="text-gray-600 mb-4">For general inquiries or non-urgent requests.</p>
-                <a href="mailto:info@topshelfpros.com" className="text-lg font-bold text-dark-blue hover:text-[#0b7fb6] break-all">info@topshelfpros.com</a>
               </div>
             </div>
 

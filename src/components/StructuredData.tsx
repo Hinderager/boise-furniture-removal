@@ -1,4 +1,4 @@
-// Coordinates for each city
+﻿// Coordinates for each city
 const cityCoordinates: Record<string, { lat: number; lng: number }> = {
   'Boise': { lat: 43.6150, lng: -116.2023 },
   'Meridian': { lat: 43.6121, lng: -116.3915 },
@@ -49,11 +49,10 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": `Top Shelf Furniture Removal - ${city}`,
+    "name": "Boise Furniture Removal",
     "description": `Professional furniture removal and hauling services in ${city}, Idaho. Same-day pickup available. We remove couches, mattresses, desks, and all types of furniture.`,
     "url": "https://boise-furniture-removal.com",
     "telephone": "+1-208-943-5231",
-    "email": "info@topshelfpros.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": city,
@@ -108,7 +107,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "serviceType": "Furniture Removal Services",
     "provider": {
       "@type": "LocalBusiness",
-      "name": "Top Shelf Furniture Removal"
+      "name": "Boise Furniture Removal"
     },
     "areaServed": {
       "@type": "State",

@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { Phone } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dining & Office Furniture Removal | Top Shelf',
+  title: 'Dining & Office Furniture Removal | Boise Furniture Removal',
   description: 'Dining tables, chairs, office desks, and workspace furniture removal in Boise. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services/dining-office' },
 }

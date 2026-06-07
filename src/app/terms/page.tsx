@@ -1,10 +1,10 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | Top Shelf Furniture Removal',
-  description: 'Terms of service for Top Shelf Furniture Removal furniture removal services in Boise and the Treasure Valley.',
+  title: 'Terms of Service | Boise Furniture Removal',
+  description: 'Terms of service for Boise Furniture Removal furniture removal services in Boise and the Treasure Valley.',
   alternates: {
     canonical: 'https://boise-furniture-removal.com/terms',
   },
@@ -20,17 +20,17 @@ export default function TermsPage() {
 
           <div className="prose prose-lg max-w-none text-gray-600">
             <p>
-              Welcome to Top Shelf Furniture Removal. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
+              Welcome to Boise Furniture Removal. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">1. Services</h2>
             <p>
-              Top Shelf Furniture Removal provides professional furniture removal, estate cleanout, and related services in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
+              Boise Furniture Removal provides professional furniture removal, estate cleanout, and related services in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">2. Service Agreement</h2>
             <p>
-              By requesting services from Top Shelf Furniture Removal, you represent that you are the property owner or have authorization from the property owner to request and authorize cleanup services. You agree to provide accurate information about the property and scope of work needed.
+              By requesting services from Boise Furniture Removal, you represent that you are the property owner or have authorization from the property owner to request and authorize cleanup services. You agree to provide accurate information about the property and scope of work needed.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">3. Estimates and Pricing</h2>
@@ -79,7 +79,7 @@ export default function TermsPage() {
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">8. Liability and Insurance</h2>
             <ul>
-              <li>Top Shelf Furniture Removal is fully licensed and insured</li>
+              <li>Boise Furniture Removal is fully licensed and insured</li>
               <li>We carry general liability insurance and workers&apos; compensation coverage</li>
               <li>We take reasonable care to protect your property during cleanup</li>
               <li>We are not responsible for pre-existing damage, hidden damage, or damage to items concealed within hoarded materials</li>
@@ -103,7 +103,7 @@ export default function TermsPage() {
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">12. Intellectual Property</h2>
             <p>
-              All content on this website, including text, images, logos, and design, is the property of Top Shelf Furniture Removal and is protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.
+              All content on this website, including text, images, logos, and design, is the property of Boise Furniture Removal and is protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">13. Dispute Resolution</h2>
@@ -122,7 +122,6 @@ export default function TermsPage() {
             </p>
             <ul>
               <li><strong>Phone:</strong> (208) 943-5231</li>
-              <li><strong>Email:</strong> info@topshelfpros.com</li>
             </ul>
           </div>
 

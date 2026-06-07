@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, AlertTriangle } from 'lucide-react'
@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Office Furniture Removal Nampa ID | Top Shelf Furniture Removal',
+  title: 'Office Furniture Removal Nampa ID | Boise Furniture Removal',
   description: 'Commercial and home office furniture removal. Desks, filing cabinets, cubicles, and more. in Nampa, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['office-furniture-removal Nampa', 'furniture removal Nampa', 'junk removal Nampa'],
   alternates: {
@@ -46,7 +46,7 @@ export default function NampaOfficeFurnitureRemovalPage() {
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Office Furniture Removal Services in Nampa</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Need office furniture removal in Nampa? We make it easy. You point, we haul. No heavy lifting for you.</p>
-              <p>Top Shelf Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
+              <p>Boise Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Common Office Furniture Removal Challenges We Handle</h3>

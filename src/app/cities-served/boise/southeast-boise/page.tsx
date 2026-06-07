@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Phone, CheckCircle, MapPin, ArrowRight } from 'lucide-react'
@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Southeast Boise Boise | Top Shelf',
+  title: 'Furniture Removal Southeast Boise Boise | Boise Furniture Removal',
   description: 'Furniture Removal services in Southeast Boise, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Southeast Boise', 'furniture removal Southeast Boise Boise', 'Southeast Boise boise furniture removal'],
   alternates: {

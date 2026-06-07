@@ -1,4 +1,4 @@
-import { Metadata } from 'next'
+﻿import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, AlertTriangle } from 'lucide-react'
@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Entertainment Center Removal Meridian ID | Top Shelf Furniture Removal',
+  title: 'Entertainment Center Removal Meridian ID | Boise Furniture Removal',
   description: 'Large entertainment centers, TV stands, and media furniture removal. in Meridian, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['entertainment-center-removal Meridian', 'furniture removal Meridian', 'junk removal Meridian'],
   alternates: {
@@ -46,7 +46,7 @@ export default function MeridianEntertainmentCenterRemovalPage() {
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Entertainment Center Removal Services in Meridian</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Need entertainment center removal in Meridian? We make it easy. You point, we haul. No heavy lifting for you.</p>
-              <p>Top Shelf Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
+              <p>Boise Furniture Removal handles all the hard work. We'll navigate stairs, tight hallways, and tricky doorways. Your furniture's gone before you know it.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Common Entertainment Center Removal Challenges We Handle</h3>
