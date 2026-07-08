@@ -10,9 +10,9 @@ const serviceAreas = [
 ]
 
 const resources = [
-  { name: 'Donation Options', href: '/donations' },
-  { name: 'What We Take', href: '/what-we-take' },
-  { name: 'Pricing Guide', href: '/pricing' },
+  { name: 'Donation Options', href: '/resources/donation-guide' },
+  { name: 'What We Take', href: '/services' },
+  { name: 'Pricing Guide', href: '/resources/pricing' },
   { name: 'Blog', href: '/blogs' },
 ]
 
