@@ -16,6 +16,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const serviceCategories = ['living-room', 'bedroom', 'dining-office', 'outdoor']
 
+  const neighborhoods = [
+    'boise/bench',
+    'boise/downtown',
+    'boise/harris-ranch',
+    'boise/north-end',
+    'boise/southeast-boise',
+    'boise/west-boise',
+    'meridian/lochsa-falls',
+    'meridian/paramount',
+    'meridian/ten-mile',
+    'meridian/tuscany',
+    'nampa/downtown-nampa',
+    'nampa/karcher',
+    'nampa/lake-lowell',
+    'nampa/midway',
+  ]
+
   return [
     // Homepage
     {
@@ -116,6 +133,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.8,
       }))
     ),
+    // Cities Served - Neighborhood Pages
+    ...neighborhoods.map(slug => ({
+      url: `${baseUrl}/cities-served/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
     // Blog
     {
       url: `${baseUrl}/blogs`,
