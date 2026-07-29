@@ -12,6 +12,21 @@ export function Footer() {
             <h4 className="text-xl font-bold mb-4 text-light-blue">Company</h4>
             <ul className="space-y-2">
               <li>
+                <Link href="/about-us" className="text-white/80 hover:text-white transition-colors">
+                  About Us
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="text-white/80 hover:text-white transition-colors">
+                  Contact
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities-served" className="text-white/80 hover:text-white transition-colors">
+                  Service Areas
+                </Link>
+              </li>
+              <li>
                 <Link href="/resources/donation-guide" className="text-white/80 hover:text-white transition-colors">
                   Donation Options
                 </Link>
