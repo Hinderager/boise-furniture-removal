@@ -97,7 +97,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5.0",
-      "reviewCount": "100"
+      "reviewCount": "392"
     }
   }
 
