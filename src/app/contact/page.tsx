@@ -1,5 +1,6 @@
 ﻿import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
+import { SchedulingForm } from '@/components/SchedulingForm'
 import { Phone, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -100,6 +101,7 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+      <SchedulingForm />
     </main>
   )
 }
