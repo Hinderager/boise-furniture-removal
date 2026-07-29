@@ -1,59 +1,48 @@
-﻿import { Metadata } from 'next'
+import { Metadata } from 'next'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Star } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Customer Reviews',
-  description: 'Read what customers say about Boise Furniture Removal. Real reviews from Boise and Treasure Valley residents.',
+  description: 'Real Google reviews for Top Shelf Junk Removal and Demolition, the crew behind our furniture removal in Boise and the Treasure Valley.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/testimonials' },
 }
 
-const testimonials = [
-  {
-    name: 'Sarah M.',
-    location: 'Boise',
-    text: "These guys were awesome. I had a massive sectional couch that wouldn't fit through the door. They took it apart, hauled it out, and didn't scratch a thing. Quick and professional.",
-    rating: 5
-  },
-  {
-    name: 'Mike T.',
-    location: 'Meridian',
-    text: "Needed same-day mattress removal because the new one was being delivered that afternoon. Top Shelf came out within 2 hours. They were fast, friendly, and the price was fair.",
-    rating: 5
-  },
-  {
-    name: 'Jennifer L.',
-    location: 'Eagle',
-    text: "I was cleaning out my mom's house after she moved to assisted living. So much furniture. Top Shelf handled everything, even donated the good pieces. Made a hard situation easier.",
-    rating: 5
-  },
-  {
-    name: 'David R.',
-    location: 'Nampa',
-    text: "Office furniture removal for our business. They showed up on time, worked efficiently, and cleaned up after themselves. Would definitely use again.",
-    rating: 5
-  },
-  {
-    name: 'Amanda K.',
-    location: 'Boise',
-    text: "Upfront pricing, no hidden fees. They quoted over the phone based on what I described, and that's exactly what I paid. Refreshing honesty.",
-    rating: 5
-  },
-  {
-    name: 'Chris P.',
-    location: 'Caldwell',
-    text: "Had a heavy old dresser upstairs. These guys handled it like pros. No complaints, no drama, just got it done. Good people.",
-    rating: 5
-  }
+// Real Google reviews for Top Shelf Junk Removal and Demolition.
+// Do not add entries here that are not genuine reviews.
+const reviews = [
+  { author: 'Lynne Ripley', rating: 5, when: 'a month ago', text: 'I have worked with Top Shelf twice (once for junk pickup and once for sod pickup) and have had stellar experiences both times. They respond and schedule quickly, very professional and easy to work with. I have recommended them to friends as well and continue to highly recommend them.' },
+  { author: 'Doug Hind', rating: 5, when: '2 months ago', text: 'Very easy to work with Eric, got the job scheduled and crew showed up on time. They were very respectful of our property, did exactly what was agreed upon and left things in very good shape ... very professional. I plan to use Top Shelf Junk Removal again and would highly recommend them for any size job.' },
+  { author: 'Katrina Vincent', rating: 5, when: '5 months ago', text: 'We recently hired Top Shelf to assist a client who had been a long time tenant for the company I work for, it was a big project, riddled with challenges. They far exceeded my expectations. Not only did they arrive on time and get right to work, they treated our clients with kindness and respect. They were extremely helpful and hard working. They accommodated our needs for appointment times and seemed to really want to earn our business. I hope to be able to utilize their services again! Would very highly recommend.' },
+  { author: 'Rachelle Tridle', rating: 5, when: '2 months ago', text: 'Top Shelf Junk Removers were awesome! They showed up on time, took everything that was quoted — plus a few extra items I had on site — with no hassle. Super fast, efficient, affordable, and even had change because I paid with cash! Great service all around. Highly recommend!' },
+  { author: 'Jeff Rau', rating: 5, when: '4 months ago', text: 'Exceptional service and response from Top Shelf. Cleaning out a family home and we were able to fill a 15 cubic yard dumpster twice! Both deliveries were very timely and working with Top Shelf staff was great! Thank you for helping make our chore easier and efficient. I would easily recommend this business to others.' },
+  { author: 'Cory', rating: 5, when: '3 months ago', text: 'I had a great experience with this junk removal business. He was punctual, professional, and worked efficiently to get everything loaded up quickly. He was friendly, easy to work with, and made the whole process simple and stress-free. If you need dependable junk removal services, I highly recommend him and would definitely call again.' },
+  { author: 'Josephine Dougherty', rating: 5, when: 'a month ago', text: 'These guys are great and I seriously don&apos;t know why I didn&apos;t hire them 3 weeks ago!!! Keep in mind.... this is what they had to deal with and the backyard 1000% worse!!!' },
+  { author: 'Kevin McSpadden', rating: 5, when: '6 months ago', text: 'Eric and Gabe were great. Positive attitude and tackled the job without complaint. Pricing was great and will definitely use them again!' },
+  { author: 'Ian Arroyo', rating: 5, when: '2 months ago', text: 'Eric and his team do such a fantastic job. They are utmost professionals and really care about the people they serve. Ours was an international move and our container arrival date changed 5 times over five weeks and not once did they get frustrated. On the day of unloading, they were fun, kind, and engaged with our kids during an amazing unload. Nothing broken, damaged, or even put in the wrong place. 10/10 would recommend and will use them anytime we need movers. Thanks Eric!' },
+  { author: 'Yakhsapet Mikulik', rating: 5, when: '11 months ago', text: 'Outstanding service by Top Shelf. I used them for my move and I couldn&apos;t be happier with the service. The movers were on time, professional, and incredibly careful with all of my belongings. They worked quickly and efficiently, yet made sure everything was handled with care. The team was friendly and respectful throughout the entire process, making a potentially stressful day go smoothly. I highly recommend Top Shelf to anyone in need of reliable and top-quality service.' },
 ]
+
+const RATING = 5.0
+const TOTAL_REVIEWS = 392
 
 export default function TestimonialsPage() {
   return (
     <main className="pt-20">
       <section className="py-16 bg-gradient-to-b from-dark-blue to-[#1a5a9e]">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Customer Reviews</h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">Real reviews from real customers across the Treasure Valley.</p>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">What Our Customers Say</h1>
+          <div className="inline-block bg-white rounded-2xl px-8 py-5 shadow-md">
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-3xl font-bold text-gray-900">{RATING.toFixed(1)}</span>
+              <div className="flex gap-1">
+                {[...Array(5)].map((_, i) => (
+                  <Star key={i} className="w-6 h-6 fill-[#fbbc04] text-[#fbbc04]" />
+                ))}
+              </div>
+              <span className="text-gray-600 ml-2">({TOTAL_REVIEWS} Google reviews)</span>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -62,39 +51,43 @@ export default function TestimonialsPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>We let our work speak for itself. Here's what people are saying about Boise Furniture Removal.</p>
-            </div>
+            <p className="text-lg text-gray-600 mb-10">
+              These are real reviews left on Google for Top Shelf Junk Removal and Demolition &mdash; the same crew that handles our furniture removal. We
+              haven&apos;t edited them, and we can&apos;t: Google reviews are tied to real accounts and the business can&apos;t change what they say.
+            </p>
 
-            <div className="grid md:grid-cols-2 gap-6 mb-12">
-              {testimonials.map((testimonial, index) => (
-                <div key={index} className="bg-gray-50 p-6 rounded-lg">
-                  <div className="flex items-center gap-1 mb-3">
-                    {[...Array(testimonial.rating)].map((_, i) => (
-                      <Star key={i} className="w-5 h-5 fill-[#FFC845] text-[#FFC845]" />
+            <div className="grid md:grid-cols-2 gap-6">
+              {reviews.map((review) => (
+                <div key={review.author} className="bg-gray-50 p-6 rounded-lg border border-gray-200">
+                  <div className="flex gap-1 mb-3">
+                    {[...Array(review.rating)].map((_, i) => (
+                      <Star key={i} className="w-5 h-5 fill-[#fbbc04] text-[#fbbc04]" />
                     ))}
                   </div>
-                  <p className="text-gray-700 mb-4 italic">"{testimonial.text}"</p>
-                  <p className="text-sm font-bold text-dark-blue">{testimonial.name}</p>
-                  <p className="text-sm text-gray-500">{testimonial.location}</p>
+                  <p className="text-gray-700 mb-4">{review.text}</p>
+                  <p className="text-sm font-bold text-dark-blue">{review.author}</p>
+                  <p className="text-sm text-gray-500">{review.when}</p>
                 </div>
               ))}
             </div>
 
-            <div className="bg-[#FFC845]/10 border-l-4 border-[#FFC845] p-6 mb-12">
-              <h3 className="text-xl font-bold text-dark-blue mb-2">Leave Us a Review</h3>
-              <p className="text-gray-700">Had a good experience? We'd love to hear from you. Reviews help other people find reliable service.</p>
-              <p className="text-gray-700 mt-2">Find us on Google, Yelp, or Facebook and let us know how we did.</p>
-            </div>
+            <p className="text-gray-600 mt-10">
+              Want to see the rest? Search <strong>Top Shelf Junk Removal and Demolition</strong> on Google to read all {TOTAL_REVIEWS} of them.
+            </p>
 
-            <div className="bg-dark-blue rounded-xl p-8 text-center text-white">
-              <h3 className="text-2xl font-bold mb-4">Ready to Experience Great Service?</h3>
-              <p className="text-gray-300 mb-6">Call now for fast, professional furniture removal.</p>
-              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 943-5231
-              </a>
-            </div>
+            <p className="text-gray-600 mt-4">
+              And if something ever goes wrong on your job, call us before you write a review. We&apos;d much rather come back and fix it.
+            </p>
           </div>
+        </div>
+      </section>
+
+      <section className="py-12 bg-dark-blue text-center">
+        <div className="container mx-auto px-4">
+          <h2 className="text-2xl font-bold text-white mb-4">Ready to book?</h2>
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
+          </a>
         </div>
       </section>
     </main>
