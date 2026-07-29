@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Eagle ID | Boise Furniture Removal',
+  title: 'Furniture Removal Eagle ID',
   description: 'Professional furniture removal services in Eagle, Idaho. Couches, mattresses, office furniture & more. Same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Eagle', 'junk removal Eagle', 'couch removal Eagle'],
   alternates: {

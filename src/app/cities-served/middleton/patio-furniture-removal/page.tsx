@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Middleton ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Middleton ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Middleton, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Middleton', 'furniture removal Middleton', 'junk removal Middleton'],
   alternates: {

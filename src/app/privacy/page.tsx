@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Boise Furniture Removal',
+  title: 'Privacy Policy',
   description: 'Privacy policy for Boise Furniture Removal - how we collect, use, and protect your personal information.',
   alternates: {
     canonical: 'https://boise-furniture-removal.com/privacy',

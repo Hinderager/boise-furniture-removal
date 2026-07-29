@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Entertainment Center Removal Meridian ID | Boise Furniture Removal',
+  title: 'Entertainment Center Removal Meridian ID',
   description: 'Large entertainment centers, TV stands, and media furniture removal. in Meridian, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['entertainment-center-removal Meridian', 'furniture removal Meridian', 'junk removal Meridian'],
   alternates: {

@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Table & Dining Furniture Removal Eagle ID | Boise Furniture Removal',
+  title: 'Table & Dining Furniture Removal Eagle ID',
   description: 'Dining tables, chairs, and kitchen furniture removal. Any size, any condition. in Eagle, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['table-removal Eagle', 'furniture removal Eagle', 'junk removal Eagle'],
   alternates: {

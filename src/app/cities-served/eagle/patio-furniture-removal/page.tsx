@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Eagle ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Eagle ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Eagle, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Eagle', 'furniture removal Eagle', 'junk removal Eagle'],
   alternates: {

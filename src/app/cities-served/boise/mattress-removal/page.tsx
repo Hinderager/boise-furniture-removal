@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Mattress Removal Boise ID | Boise Furniture Removal',
+  title: 'Mattress Removal Boise ID',
   description: 'Fast, affordable mattress and box spring removal. We recycle when possible. in Boise, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['mattress-removal Boise', 'furniture removal Boise', 'junk removal Boise'],
   alternates: {

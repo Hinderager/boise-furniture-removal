@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Paramount Meridian | Boise Furniture Removal',
+  title: 'Furniture Removal Paramount Meridian',
   description: 'Furniture Removal services in Paramount, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Paramount', 'furniture removal Paramount Meridian', 'Paramount meridian furniture removal'],
   alternates: {

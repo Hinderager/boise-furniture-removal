@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Mountain Home ID | Boise Furniture Removal',
+  title: 'Furniture Removal Mountain Home ID',
   description: 'Professional furniture removal services in Mountain Home, Idaho. Couches, mattresses, office furniture & more. Same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Mountain Home', 'junk removal Mountain Home', 'couch removal Mountain Home'],
   alternates: {

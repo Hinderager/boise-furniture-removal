@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dresser & Bedroom Furniture Removal Kuna ID | Boise Furniture Removal',
+  title: 'Dresser & Bedroom Furniture Removal Kuna ID',
   description: 'Complete bedroom furniture removal including dressers, nightstands, and armoires. in Kuna, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['dresser-removal Kuna', 'furniture removal Kuna', 'junk removal Kuna'],
   alternates: {

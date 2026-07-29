@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Garden City ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Garden City ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Garden City, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Garden City', 'furniture removal Garden City', 'junk removal Garden City'],
   alternates: {

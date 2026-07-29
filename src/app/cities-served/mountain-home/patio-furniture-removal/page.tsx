@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Mountain Home ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Mountain Home ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Mountain Home, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Mountain Home', 'furniture removal Mountain Home', 'junk removal Mountain Home'],
   alternates: {

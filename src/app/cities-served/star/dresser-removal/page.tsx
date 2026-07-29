@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dresser & Bedroom Furniture Removal Star ID | Boise Furniture Removal',
+  title: 'Dresser & Bedroom Furniture Removal Star ID',
   description: 'Complete bedroom furniture removal including dressers, nightstands, and armoires. in Star, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['dresser-removal Star', 'furniture removal Star', 'junk removal Star'],
   alternates: {

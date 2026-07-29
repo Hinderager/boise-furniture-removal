@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Tuscany Meridian | Boise Furniture Removal',
+  title: 'Furniture Removal Tuscany Meridian',
   description: 'Furniture Removal services in Tuscany, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Tuscany', 'furniture removal Tuscany Meridian', 'Tuscany meridian furniture removal'],
   alternates: {

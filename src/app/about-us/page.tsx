@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { Phone, Award, Shield, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'About Us | Boise Furniture Removal',
+  title: 'About Us',
   description: 'Learn about Boise Furniture Removal. Local furniture removal experts serving the Treasure Valley. Licensed, insured, and committed to fast, friendly service.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us' },
 }

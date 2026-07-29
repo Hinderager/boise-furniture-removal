@@ -4,7 +4,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Bedroom Furniture Removal | Boise Furniture Removal',
+  title: 'Bedroom Furniture Removal',
   description: 'Mattress, box spring, bed frame, dresser, and bedroom furniture removal in Boise. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services/bedroom' },
 }

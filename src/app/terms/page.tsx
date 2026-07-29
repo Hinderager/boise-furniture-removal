@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | Boise Furniture Removal',
+  title: 'Terms of Service',
   description: 'Terms of service for Boise Furniture Removal furniture removal services in Boise and the Treasure Valley.',
   alternates: {
     canonical: 'https://boise-furniture-removal.com/terms',

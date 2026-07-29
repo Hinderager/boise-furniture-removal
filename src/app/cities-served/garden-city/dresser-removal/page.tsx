@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dresser & Bedroom Furniture Removal Garden City ID | Boise Furniture Removal',
+  title: 'Dresser & Bedroom Furniture Removal Garden City ID',
   description: 'Complete bedroom furniture removal including dressers, nightstands, and armoires. in Garden City, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['dresser-removal Garden City', 'furniture removal Garden City', 'junk removal Garden City'],
   alternates: {

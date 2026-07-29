@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Ten Mile Area Meridian | Boise Furniture Removal',
+  title: 'Furniture Removal Ten Mile Area Meridian',
   description: 'Furniture Removal services in Ten Mile Area, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Ten Mile Area', 'furniture removal Ten Mile Area Meridian', 'Ten Mile Area meridian furniture removal'],
   alternates: {

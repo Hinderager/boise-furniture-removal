@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Shield, FileCheck, Award } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Licenses & Insurance | Boise Furniture Removal',
+  title: 'Licenses & Insurance',
   description: 'Boise Furniture Removal is fully licensed and insured in Idaho. Learn about our credentials and coverage.',
   alternates: { canonical: 'https://boise-furniture-removal.com/about-us/licenses-insurance' },
 }

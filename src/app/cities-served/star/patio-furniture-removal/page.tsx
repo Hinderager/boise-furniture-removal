@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Star ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Star ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Star, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Star', 'furniture removal Star', 'junk removal Star'],
   alternates: {

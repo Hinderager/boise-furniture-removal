@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'FAQ | Boise Furniture Removal',
+  title: 'FAQ',
   description: 'Frequently asked questions about furniture removal in Boise. Pricing, scheduling, what we take, and more.',
   alternates: { canonical: 'https://boise-furniture-removal.com/resources/faq' },
 }

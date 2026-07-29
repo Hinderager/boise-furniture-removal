@@ -4,7 +4,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dining & Office Furniture Removal | Boise Furniture Removal',
+  title: 'Dining & Office Furniture Removal',
   description: 'Dining tables, chairs, office desks, and workspace furniture removal in Boise. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services/dining-office' },
 }

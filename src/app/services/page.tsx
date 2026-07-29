@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Services | Boise Furniture Removal',
+  title: 'Services',
   description: 'Complete furniture removal services in Boise. Living room, bedroom, office, and outdoor furniture removal.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services' },
 }

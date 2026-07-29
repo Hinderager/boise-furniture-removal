@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Table & Dining Furniture Removal Middleton ID | Boise Furniture Removal',
+  title: 'Table & Dining Furniture Removal Middleton ID',
   description: 'Dining tables, chairs, and kitchen furniture removal. Any size, any condition. in Middleton, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['table-removal Middleton', 'furniture removal Middleton', 'junk removal Middleton'],
   alternates: {

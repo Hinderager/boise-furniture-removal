@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Eagle ID | Boise Furniture Removal',
+  title: 'Recliner & Chair Removal Eagle ID',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Eagle, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Eagle', 'furniture removal Eagle', 'junk removal Eagle'],
   alternates: {

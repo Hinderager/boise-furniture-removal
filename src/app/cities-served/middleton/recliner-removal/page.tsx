@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Middleton ID | Boise Furniture Removal',
+  title: 'Recliner & Chair Removal Middleton ID',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Middleton, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Middleton', 'furniture removal Middleton', 'junk removal Middleton'],
   alternates: {

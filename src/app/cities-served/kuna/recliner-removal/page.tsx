@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Kuna ID | Boise Furniture Removal',
+  title: 'Recliner & Chair Removal Kuna ID',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Kuna, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Kuna', 'furniture removal Kuna', 'junk removal Kuna'],
   alternates: {

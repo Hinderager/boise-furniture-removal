@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal Lake Lowell Nampa | Boise Furniture Removal',
+  title: 'Furniture Removal Lake Lowell Nampa',
   description: 'Furniture Removal services in Lake Lowell, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal Lake Lowell', 'furniture removal Lake Lowell Nampa', 'Lake Lowell nampa furniture removal'],
   alternates: {

@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Couch Removal Caldwell ID | Boise Furniture Removal',
+  title: 'Couch Removal Caldwell ID',
   description: 'Professional couch and sofa removal services. We handle all types of couches, sectionals, and loveseats. in Caldwell, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['couch-removal Caldwell', 'furniture removal Caldwell', 'junk removal Caldwell'],
   alternates: {

@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dresser & Bedroom Furniture Removal Eagle ID | Boise Furniture Removal',
+  title: 'Dresser & Bedroom Furniture Removal Eagle ID',
   description: 'Complete bedroom furniture removal including dressers, nightstands, and armoires. in Eagle, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['dresser-removal Eagle', 'furniture removal Eagle', 'junk removal Eagle'],
   alternates: {

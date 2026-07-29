@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Meridian ID | Boise Furniture Removal',
+  title: 'Recliner & Chair Removal Meridian ID',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Meridian, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Meridian', 'furniture removal Meridian', 'junk removal Meridian'],
   alternates: {

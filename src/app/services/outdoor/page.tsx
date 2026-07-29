@@ -4,7 +4,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Outdoor Furniture Removal | Boise Furniture Removal',
+  title: 'Outdoor Furniture Removal',
   description: 'Patio furniture, outdoor sectionals, grills, and yard furniture removal in Boise. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services/outdoor' },
 }

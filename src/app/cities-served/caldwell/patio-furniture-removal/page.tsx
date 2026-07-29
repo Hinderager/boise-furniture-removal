@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Patio & Outdoor Furniture Removal Caldwell ID | Boise Furniture Removal',
+  title: 'Patio & Outdoor Furniture Removal Caldwell ID',
   description: 'Outdoor furniture removal including patio sets, grills, and yard furniture. in Caldwell, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['patio-furniture-removal Caldwell', 'furniture removal Caldwell', 'junk removal Caldwell'],
   alternates: {

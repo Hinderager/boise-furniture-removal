@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Boise Furniture Removal',
+  title: 'Contact Us',
   description: 'Contact Boise Furniture Removal in Boise. Call (208) 943-5231 for fast furniture removal service.',
   alternates: { canonical: 'https://boise-furniture-removal.com/contact' },
 }

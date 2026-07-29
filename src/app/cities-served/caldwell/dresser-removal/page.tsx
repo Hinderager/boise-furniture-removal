@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Dresser & Bedroom Furniture Removal Caldwell ID | Boise Furniture Removal',
+  title: 'Dresser & Bedroom Furniture Removal Caldwell ID',
   description: 'Complete bedroom furniture removal including dressers, nightstands, and armoires. in Caldwell, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['dresser-removal Caldwell', 'furniture removal Caldwell', 'junk removal Caldwell'],
   alternates: {

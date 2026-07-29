@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Table & Dining Furniture Removal Kuna ID | Boise Furniture Removal',
+  title: 'Table & Dining Furniture Removal Kuna ID',
   description: 'Dining tables, chairs, and kitchen furniture removal. Any size, any condition. in Kuna, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['table-removal Kuna', 'furniture removal Kuna', 'junk removal Kuna'],
   alternates: {

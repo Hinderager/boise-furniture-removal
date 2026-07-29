@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Furniture Removal North End Boise | Boise Furniture Removal',
+  title: 'Furniture Removal North End Boise',
   description: 'Furniture Removal services in North End, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['furniture removal North End', 'furniture removal North End Boise', 'North End boise furniture removal'],
   alternates: {

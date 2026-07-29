@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Entertainment Center Removal Star ID | Boise Furniture Removal',
+  title: 'Entertainment Center Removal Star ID',
   description: 'Large entertainment centers, TV stands, and media furniture removal. in Star, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['entertainment-center-removal Star', 'furniture removal Star', 'junk removal Star'],
   alternates: {

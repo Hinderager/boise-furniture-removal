@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Recliner & Chair Removal Garden City ID | Boise Furniture Removal',
+  title: 'Recliner & Chair Removal Garden City ID',
   description: 'Recliners, armchairs, and oversized furniture removal. We handle power recliners too. in Garden City, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['recliner-removal Garden City', 'furniture removal Garden City', 'junk removal Garden City'],
   alternates: {

@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Office Furniture Removal Star ID | Boise Furniture Removal',
+  title: 'Office Furniture Removal Star ID',
   description: 'Commercial and home office furniture removal. Desks, filing cabinets, cubicles, and more. in Star, Idaho. Same-day service. Licensed & insured. Call (208) 943-5231.',
   keywords: ['office-furniture-removal Star', 'furniture removal Star', 'junk removal Star'],
   alternates: {

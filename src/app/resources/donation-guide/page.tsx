@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Heart, CheckCircle, XCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Furniture Donation Guide | Boise Furniture Removal',
+  title: 'Furniture Donation Guide',
   description: 'Donate furniture in Boise instead of throwing it away. Learn what can be donated, where it goes, and how to get a tax receipt.',
   alternates: { canonical: 'https://boise-furniture-removal.com/resources/donation-guide' },
 }

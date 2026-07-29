@@ -81,6 +81,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Resources Section
     {
+      url: `${baseUrl}/resources`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/resources/faq`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
@@ -117,6 +123,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     })),
+    // Cities Served - Hub
+    {
+      url: `${baseUrl}/cities-served`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    },
     // Cities Served - Landing Pages
     ...cities.map(city => ({
       url: `${baseUrl}/cities-served/${city}`,

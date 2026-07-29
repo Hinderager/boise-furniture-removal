@@ -4,7 +4,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Living Room Furniture Removal | Boise Furniture Removal',
+  title: 'Living Room Furniture Removal',
   description: 'Professional removal of couches, sofas, sectionals, recliners, and living room furniture in Boise. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-furniture-removal.com/services/living-room' },
 }
