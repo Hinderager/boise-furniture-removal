@@ -57,16 +57,8 @@ export default function ContactPage() {
                 <h3 className="text-2xl font-bold text-dark-blue mb-2">Hours</h3>
                 <div className="space-y-2 text-gray-700">
                   <div className="flex justify-between">
-                    <span>Monday - Friday:</span>
-                    <span className="font-bold">7 AM - 7 PM</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>Saturday:</span>
-                    <span className="font-bold">8 AM - 5 PM</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>Sunday:</span>
-                    <span className="font-bold">By Appointment</span>
+                    <span>Monday - Sunday:</span>
+                    <span className="font-bold">8 AM - 9 PM</span>
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mt-4">Emergency or urgent removal? Call us anytime — we'll do our best to help.</p>
