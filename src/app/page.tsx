@@ -8,8 +8,6 @@ import { GoogleReviews } from '@/components/GoogleReviews'
 import { FAQ } from '@/components/FAQ'
 import { MapSection } from '@/components/MapSection'
 
-// Force dynamic rendering to avoid static generation issues
-export const revalidate = 0
 
 export default function Home() {
   return (
